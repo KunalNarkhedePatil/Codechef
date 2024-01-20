@@ -1,17 +1,17 @@
-//Link:-https://www.codechef.com/problems/CHRISTGREET
+// Link:-https://www.codechef.com/problems/CHRISTGREET
 #include <bits/stdc++.h>
 using namespace std;
 
-int main() {
-	int day=0;
-	cin>>day;
-	if(day==25)
+int main()
+{
+	int day = 0;
+	cin >> day;
+	if (day == 25)
 	{
-	    cout<<"CHRISTMAS"<<endl;
+		cout << "CHRISTMAS" << endl;
 	}
 	else
 	{
-	    cout<<"ORDINARY"<<endl;
+		cout << "ORDINARY" << endl;
 	}
-
 }
